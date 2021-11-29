@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Vocabulary_System_Se307_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Annytab.Stemmer" Version="1.2.4" />
+    <PackageReference Include="Baseline" Version="3.2.1" />
+    <PackageReference Include="DryIoc.dll" Version="4.8.1" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+    <PackageReference Include="itextsharp.xmlworker" Version="5.5.13.2" />
+    <PackageReference Include="LanguageExt.Core" Version="3.4.15" />
+    <PackageReference Include="LemmaGenerator" Version="1.1.0" />
+    <PackageReference Include="LemmaSharp-std" Version="1.0.1" />
+    <PackageReference Include="LemmaSharpPreBuilt-std" Version="1.0.1" />
+    <PackageReference Include="NltkNet" Version="1.0.14" />
+    <PackageReference Include="Porter2StemmerStandard" Version="1.1.0" />
+    <PackageReference Include="StemmersNet" Version="1.1.1" />
+    <PackageReference Include="Stripe.net" Version="39.66.0" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+  </ItemGroup>
+
+</Project>
